@@ -1,0 +1,80 @@
+body{
+    font-family: 'Fugaz One', cursive;
+    font-size: 2em;
+
+}
+
+
+img{
+    height: auto;
+    max-width: 100%;
+}
+
+h2{
+    text-align: center;
+}
+
+#about{
+    margin-left: 100px;
+}
+
+#info{
+    margin-top: 35px;
+}
+
+h1{
+    text-align: center;
+}
+
+.footer{
+width: 100%;
+height: 100px;
+background-color: #636363;
+
+}
+
+.ul-footer{
+    font-family: 'Roboto', sans-serif;
+    list-style: none;
+    font-size: .8em;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+
+
+#social-footer-ul{
+    list-style: none;
+    float: right;
+    margin-top: -50px;
+
+}
+
+.footer-social{
+    display: inline;
+    padding: 5px;
+
+}
+
+.phone{
+    margin-top: 5px;
+}
+
+#social{
+    padding: 5px;
+}
+
+
+#phone{
+    margin-left: 10px
+}
+
+
+.li-footer{
+    margin-top: 7px;
+}
+
+.megafooter{
+    text-align: center;
+    margin-top: -50px;
+}
